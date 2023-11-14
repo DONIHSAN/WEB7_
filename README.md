@@ -35,14 +35,55 @@ Untuk mengaksesnya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php?n
 
 ![](screenshot/ss4.png)
 
+## Operator
 
+Untuk mengaksesnya gunakan lagi URL diawal : http://localhost/lab7_php_dasar/php_dasar.php/
 
+![](screenshot/ss5.png)
 
+## Kondisi IF
 
+![](screenshot/ss6.png)
 
+## Kondisi Switch
 
+![](screenshot/ss7.png)
 
+## Perulangan 'For'
 
+![](screenshot/ss8.png)
+
+## Perulangan 'While'
+
+![](screenshot/ss9.png)
+
+## Perulangan 'do while'
+
+![](screenshot/ss10.png)
+
+## Pertanyaan dan Tugas
+
+Buatlah program PHP sederhana dengan menggunakan ``form input yang menampilkan nama, tanggal lahir dan pekerjaan. ``
+
+Kemudian tampilkan outputnya dengan ``menghitung umur berdasarkan inputan tanggal lahir``. Dan pilihan ``pekerjaan dengan gaji yang berbeda-beda sesuai dengan pilihan pekerjaan.``
+
+## Jawab
+
+- Tampilan form sebelum di isi.
+
+![](screenshot/ss11.png)
+
+- Setelah Memilih Database Administrator.
+
+![](screenshot/ss12.png)
+
+- Setelah Memilih Software Developer.
+
+![](screenshot/ss13.png)
+
+- Setelah Memilih Web Developer.
+
+![](screenshot/ss14.png)
 
 
 
