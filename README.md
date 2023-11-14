@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 9 } <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--LTUFkuK5--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://imgur.com/Mj3H69v.png width="130px" >
+# Tugas Praktikum { Pertemuan ke 9 } <img src=https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png width="120px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -12,6 +12,28 @@
 Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](screenshot/Home%20Screen%20VSC.png)
+
+## Belajar PHP Dasar
+
+Buat file baru dengan nama ``php_dasar.php`` pada directory tersebut. Kemudian buat kode seperti berikut.
+
+Untuk mengaksesnya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php/
+
+![](screenshot/ss1.png)
+
+## Variabel PHP
+
+![](screenshot/ss2.png)
+
+## Predefine Variable '$_GET'
+
+Untuk mengaksesnya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php?nama=Ikhsan
+
+![](screenshot/ss3.png)
+
+## Membuat Form Input
+
+![](screenshot/ss4.png)
 
 
 
