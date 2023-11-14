@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemrograman WEB|
+|Muhammad Ikhsan Fakhrudin|312210019|TI.22.A.2|Pemrograman Web 1|
 
 # PHP Dasar
 
