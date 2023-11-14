@@ -9,17 +9,45 @@
 
 ## Langkah-Langkah Praktikum
 
+## 1. Install XAMPP
+
+Install XAMPP dari https://www.apachefriends.org/download.html
+
+![](screenshot/ss18.png)
+
+## 2. Menjalankan Web Server
+
+Berikut tampilan menu dari XAMPP Control
+
+![](screenshot/ss19.png)
+
+Menjalankan XAMPP dengan cara ``klik tombol Start pada server Apache`` seperti gambar diatas
+
+## 3. Memulai PHP
+
+Buat folder ``lab7_php_dasar`` pada root directory web server ***(misal : C:\xampp\htdocs).***
+
+![](screenshot/ss20.png)
+
+![](screenshot/ss21.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL : http://localhost/lab7_php_dasar/
+
+![](screenshot/ss22.png)
+
+## 4. PHP Dasar 
+
 Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](screenshot/Home%20Screen%20VSC.png)
 
-## Belajar PHP Dasar
+Membuka folder ``lab7_php_dasar``
 
-Buat file baru dengan nama ``php_dasar.php``. Kemudian buat kode seperti berikut.
-
-Untuk mengaksesnya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php/
+Membuat file baru dengan nama ``php_dasar.php``. Kemudian buat kode seperti berikut.
 
 ![](screenshot/ss1.png)
+
+Untuk mengaksesnya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php/
 
 ## Variabel PHP
 
