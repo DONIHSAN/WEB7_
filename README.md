@@ -15,7 +15,7 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ## Belajar PHP Dasar
 
-Buat file baru dengan nama ``php_dasar.php`` pada directory tersebut. Kemudian buat kode seperti berikut.
+Buat file baru dengan nama ``php_dasar.php``. Kemudian buat kode seperti berikut.
 
 Untuk mengaksesnya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php/
 

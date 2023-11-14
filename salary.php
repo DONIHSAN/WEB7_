@@ -88,7 +88,7 @@
                     $usia = $today->diff($date_user)->y;
 
                     $job_array = ["Database Administrator","Software Developer","Web Developer"];
-                    $salary_array = ["Rp. 5.300.000","Rp. 5.400.000","Rp. 4.800.000"];
+                    $salary_array = ["Rp. 5.300.000","Rp. 8.000.000","Rp. 4.800.000"];
 
 
                     echo "Halo, ".$nama."<br><br>Kamu lahir pada tanggal ".$date.", Usia mu ".$usia." tahun";
