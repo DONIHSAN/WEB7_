@@ -73,15 +73,15 @@ Kemudian tampilkan outputnya dengan ``menghitung umur berdasarkan inputan tangga
 
 ![](screenshot/ss11.png)
 
-- Setelah Memilih Database Administrator.
+- Setelah Memilih Database Administrator 👇
 
 ![](screenshot/ss12.png)
 
-- Setelah Memilih Software Developer.
+- Setelah Memilih Software Developer 👇
 
-![](screenshot/ss13.png)
+![](screenshot/ss15.png)
 
-- Setelah Memilih Web Developer.
+- Setelah Memilih Web Developer 👇
 
 ![](screenshot/ss14.png)
 
